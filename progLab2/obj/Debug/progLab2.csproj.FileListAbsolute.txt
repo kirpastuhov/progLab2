@@ -1,0 +1,16 @@
+/Users/kirill/progLab2/progLab2/bin/Debug/progLab2.exe
+/Users/kirill/progLab2/progLab2/bin/Debug/progLab2.pdb
+/Users/kirill/progLab2/progLab2/bin/Debug/INIFileParserDotNetCore.dll
+/Users/kirill/progLab2/progLab2/obj/Debug/progLab2.csprojResolveAssemblyReference.cache
+/Users/kirill/progLab2/progLab2/obj/Debug/progLab2.csproj.CoreCompileInputs.cache
+/Users/kirill/progLab2/progLab2/obj/Debug/progLab2.exe
+/Users/kirill/progLab2/progLab2/obj/Debug/progLab2.pdb
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/bin/Debug/progLab2.exe
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/bin/Debug/progLab2.pdb
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/bin/Debug/INIFileParserDotNetCore.dll
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/obj/Debug/progLab2.csprojResolveAssemblyReference.cache
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/obj/Debug/progLab2.csproj.CoreCompileInputs.cache
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/obj/Debug/progLab2.exe
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/obj/Debug/progLab2.pdb
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/bin/Debug/Newtonsoft.Json.dll
+/Users/kirill/Documents/ITMO/PROG/progLab2/progLab2/bin/Debug/Newtonsoft.Json.xml

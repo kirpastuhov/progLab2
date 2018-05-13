@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dfdacda-8312-4baf-b03f-4fdf580038c9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+                <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Books.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+                <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+                <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+                <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+                <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+                <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+                <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+                <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+                <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskRunner.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+                <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+                <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+                <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+                <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+                <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sa</find>
+      <find>ReadLibrARY</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/progLab2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/progLab2/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/progLab2/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/progLab2/Books.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/progLab2/MenuItem.cs" />
+        <option value="$PROJECT_DIR$/progLab2/Program.cs" />
+        <option value="$PROJECT_DIR$/progLab2/Menu.cs" />
+        <option value="$PROJECT_DIR$/progLab2/Books.cs" />
+        <option value="$PROJECT_DIR$/progLab2/TaskRunner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="progLab2 (loading...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/progLab2/bin/Debug/progLab2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/progLab2/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/progLab2/progLab2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfdacda-8312-4baf-b03f-4fdf580038c9" name="Default" comment="" />
+      <created>1523453049054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523453049054</updated>
+      <workItem from="1523453050462" duration="1802000" />
+      <workItem from="1523455040778" duration="9546000" />
+      <workItem from="1523860495390" duration="1520000" />
+      <workItem from="1523875000060" duration="1475000" />
+      <workItem from="1523977524073" duration="165000" />
+      <workItem from="1524069503624" duration="541000" />
+      <workItem from="1524498975282" duration="29854000" />
+      <workItem from="1525000742374" duration="1158000" />
+      <workItem from="1525353711397" duration="3026000" />
+      <workItem from="1525959966977" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49088000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3319149" sideWeight="0.50703126" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36879432" sideWeight="0.49296874" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="76" column="8" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="126" column="12" lean-forward="false" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="72" lean-forward="false" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/ConsoleApplication1/ConsoleApplication1.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1523862697502" expanded="true" signature="47:208" ph="{...}" />
+            <marker date="1523862697502" expanded="true" signature="100:202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1524934491294" expanded="false" signature="6:47" ph="..." />
+            <marker date="1524934491294" expanded="true" signature="91:1002" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="208:315" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="346:996" ph="{...}" />
+            <marker date="1524934491294" expanded="true" signature="464:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1523455022278" expanded="true" signature="61:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/Books.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1525353824492" expanded="true" signature="6:68" ph="..." />
+            <marker date="1525353824492" expanded="true" signature="89:1342" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="134:1340" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="574:1260" ph="{...}" />
+            <marker date="1525353824492" expanded="true" signature="1090:1204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/progLab2/TaskRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1525359496505" expanded="true" signature="6:652" ph="..." />
+            <marker date="1525359496505" expanded="true" signature="674:12292" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="704:12290" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1002:2867" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1130:2855" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1179:1308" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1357:1503" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1552:1707" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1757:1887" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="1936:2082" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2131:2269" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2318:2470" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2521:2661" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2710:2839" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2894:2946" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="2989:4795" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="3492:4057" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4142:4760" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4256:4746" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4626:4728" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4833:6416" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="4877:5005" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5328:5410" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5427:5513" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="5515:6378" ph="/* var parser = new FileIniDataParser(); ... */" />
+            <marker date="1525359496505" expanded="true" signature="6418:6724" ph="/* private class Boo ... */" />
+            <marker date="1525359496505" expanded="true" signature="6773:7857" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="6784:7335" ph="/* foreach (var book in books) ... */" />
+            <marker date="1525359496505" expanded="true" signature="7599:7820" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7707:7806" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="7901:9010" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8105:8974" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8155:8247" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8268:8960" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="8548:8942" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9051:9714" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9237:9679" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9754:10522" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="9924:10486" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10557:10690" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="10722:12284" ph="{...}" />
+            <marker date="1525359496505" expanded="true" signature="11772:11913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
